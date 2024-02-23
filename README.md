@@ -10,7 +10,7 @@ A pretty simple-easy to use tool that clears your messages from channels OR nuke
 ^ the prefix is `,`
 
 ## Setup
-To get started just fill the config file with the needed stuff
+To get started, run `pip install -r requirements.txt` & fill out the config file like below;
 
 `{
   "token": "YOUR_TOKEN",
