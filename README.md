@@ -7,7 +7,7 @@ A pretty simple-easy to use tool that clears your messages from channels OR nuke
 - **clear**: Removes all messages sent by you in a channel.
 - **nuke**: Deletes a channel and then recreates it with the same permissions, name, and webhooks.
 - **help**: Displays a list of all available commands.
-^ the prefix is `,`
+- the prefix is `,`
 
 ## Setup
 To get started, run `pip install -r requirements.txt` & fill out the config file like below;
