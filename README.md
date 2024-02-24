@@ -12,9 +12,9 @@ A pretty simple-easy to use tool that clears your messages from channels OR nuke
 ## Setup
 To get started, run `pip install -r requirements.txt` & fill out the config file like below;
 
-`{
+{
   "token": "YOUR_TOKEN",
   "webhook_url": "YOUR_WEBHOOK_URL"
-}`
+}
 
 Any issues DM **massages** on discord
